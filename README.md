@@ -50,32 +50,32 @@ Things I've shipped that I'm proud of:
 <!-- PROJECTS:START -->
 > 🔄 Auto-synced from GitHub · **22 repos** · ⭐ 1 stars · 🍴 0 forks  
 > Top languages: `Java` · `Python` · `HTML`  
-> _Last updated: Sat, 25 Apr 2026 09:27:37 GMT_
+> _Last updated: Sat, 25 Apr 2026 09:32:39 GMT_
 
-| Project | Description | Language | Stars | Updated |
-|---------|-------------|----------|-------|---------|
-| [AsyncLogger](https://github.com/adityapadhmakar99/AsyncLogger) | Initial Commit | ☕ Java | ⭐ 1 | 25 Apr 2026 |
-| [FlipMed](https://github.com/adityapadhmakar99/FlipMed) | — | ☕ Java | — | 24 Apr 2026 |
-| [CustomHashMap](https://github.com/adityapadhmakar99/CustomHashMap) | — | ☕ Java | — | 18 Apr 2026 |
-| [DistributedLogs](https://github.com/adityapadhmakar99/DistributedLogs) | — | ☕ Java | — | 22 Jan 2026 |
-| [LRU](https://github.com/adityapadhmakar99/LRU) | — | ☕ Java | — | 22 Jan 2026 |
-| [PaymentSystem](https://github.com/adityapadhmakar99/PaymentSystem) | — | ☕ Java | — | 22 Jan 2026 |
-| [SchedulerLeaderElection](https://github.com/adityapadhmakar99/SchedulerLeaderElection) | — | ☕ Java | — | 22 Jan 2026 |
-| [InventoryService](https://github.com/adityapadhmakar99/InventoryService) | — | ☕ Java | — | 20 Jan 2026 |
-| [RateLimiter](https://github.com/adityapadhmakar99/RateLimiter) | — | ☕ Java | — | 20 Jan 2026 |
-| [LMS](https://github.com/adityapadhmakar99/LMS) | — | ☕ Java | — | 20 Jan 2026 |
-| [MovieTicketBooking](https://github.com/adityapadhmakar99/MovieTicketBooking) | — | ☕ Java | — | 18 Dec 2025 |
-| [HotelReservation](https://github.com/adityapadhmakar99/HotelReservation) | — | ☕ Java | — | 17 Dec 2025 |
-| [CircularDependency](https://github.com/adityapadhmakar99/CircularDependency) | — | ☕ Java | — | 16 Dec 2025 |
-| [Ecommerce](https://github.com/adityapadhmakar99/Ecommerce) | — | ☕ Java | — | 14 Dec 2025 |
-| [SplitWise](https://github.com/adityapadhmakar99/SplitWise) | — | ☕ Java | — | 12 Dec 2025 |
-| [LogSystem](https://github.com/adityapadhmakar99/LogSystem) | — | ☕ Java | — | 28 Nov 2025 |
-| [ATM](https://github.com/adityapadhmakar99/ATM) | — | ☕ Java | — | 27 Nov 2025 |
-| [NotificationSystem](https://github.com/adityapadhmakar99/NotificationSystem) | — | ☕ Java | — | 26 Nov 2025 |
-| [LowestUniqueBidSystem](https://github.com/adityapadhmakar99/LowestUniqueBidSystem) | — | ☕ Java | — | 23 Nov 2025 |
-| [BengaluruHousePricePrediction](https://github.com/adityapadhmakar99/BengaluruHousePricePrediction) | — | 🐍 Python | — | 22 Nov 2025 |
-| [EarthAwarenessWebsite](https://github.com/adityapadhmakar99/EarthAwarenessWebsite) | — | 📦 HTML | — | 22 Nov 2025 |
-| [ParkingSystem](https://github.com/adityapadhmakar99/ParkingSystem) | — | ☕ Java | — | 22 Nov 2025 |
+| Project | Language | Updated |
+|---------|----------|---------|
+| [AsyncLogger](https://github.com/adityapadhmakar99/AsyncLogger) | ☕ Java | 25 Apr 2026 |
+| [FlipMed](https://github.com/adityapadhmakar99/FlipMed) | ☕ Java | 24 Apr 2026 |
+| [CustomHashMap](https://github.com/adityapadhmakar99/CustomHashMap) | ☕ Java | 18 Apr 2026 |
+| [DistributedLogs](https://github.com/adityapadhmakar99/DistributedLogs) | ☕ Java | 22 Jan 2026 |
+| [LRU](https://github.com/adityapadhmakar99/LRU) | ☕ Java | 22 Jan 2026 |
+| [PaymentSystem](https://github.com/adityapadhmakar99/PaymentSystem) | ☕ Java | 22 Jan 2026 |
+| [SchedulerLeaderElection](https://github.com/adityapadhmakar99/SchedulerLeaderElection) | ☕ Java | 22 Jan 2026 |
+| [InventoryService](https://github.com/adityapadhmakar99/InventoryService) | ☕ Java | 20 Jan 2026 |
+| [RateLimiter](https://github.com/adityapadhmakar99/RateLimiter) | ☕ Java | 20 Jan 2026 |
+| [LMS](https://github.com/adityapadhmakar99/LMS) | ☕ Java | 20 Jan 2026 |
+| [MovieTicketBooking](https://github.com/adityapadhmakar99/MovieTicketBooking) | ☕ Java | 18 Dec 2025 |
+| [HotelReservation](https://github.com/adityapadhmakar99/HotelReservation) | ☕ Java | 17 Dec 2025 |
+| [CircularDependency](https://github.com/adityapadhmakar99/CircularDependency) | ☕ Java | 16 Dec 2025 |
+| [Ecommerce](https://github.com/adityapadhmakar99/Ecommerce) | ☕ Java | 14 Dec 2025 |
+| [SplitWise](https://github.com/adityapadhmakar99/SplitWise) | ☕ Java | 12 Dec 2025 |
+| [LogSystem](https://github.com/adityapadhmakar99/LogSystem) | ☕ Java | 28 Nov 2025 |
+| [ATM](https://github.com/adityapadhmakar99/ATM) | ☕ Java | 27 Nov 2025 |
+| [NotificationSystem](https://github.com/adityapadhmakar99/NotificationSystem) | ☕ Java | 26 Nov 2025 |
+| [LowestUniqueBidSystem](https://github.com/adityapadhmakar99/LowestUniqueBidSystem) | ☕ Java | 23 Nov 2025 |
+| [BengaluruHousePricePrediction](https://github.com/adityapadhmakar99/BengaluruHousePricePrediction) | 🐍 Python | 22 Nov 2025 |
+| [EarthAwarenessWebsite](https://github.com/adityapadhmakar99/EarthAwarenessWebsite) | 📦 HTML | 22 Nov 2025 |
+| [ParkingSystem](https://github.com/adityapadhmakar99/ParkingSystem) | ☕ Java | 22 Nov 2025 |
 <!-- PROJECTS:END -->
 
 ---
