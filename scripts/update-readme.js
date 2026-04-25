@@ -59,7 +59,7 @@ async function fetchAllRepos() {
     if (data.length < 100) break;
     page++;
   }
-  return all.filter(r => !r.fork);
+  return all.filter(r => !r.fork && r.name !== USERNAME);
 }
 
 // ─── Language → emoji map ───────────────────────────────────────────────────
