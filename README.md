@@ -43,16 +43,12 @@ Things I've shipped that I'm proud of:
 
 ---
 
-## Featured Projects
+---
 
-| Project | What it is |
-|---|---|
-| [SplitWise](https://github.com/adityapadhmakar99/SplitWise) | Expense splitting system — LLD with group settlements |
-| [LogSystem](https://github.com/adityapadhmakar99/LogSystem) | Distributed log ingestion and query system |
-| [LowestUniqueBidSystem](https://github.com/adityapadhmakar99/LowestUniqueBidSystem) | Real-time bidding engine with concurrency handling |
-| [Ecommerce](https://github.com/adityapadhmakar99/Ecommerce) | E-commerce backend — order, inventory, fulfillment |
-| [ParkingSystem](https://github.com/adityapadhmakar99/ParkingSystem) | Multi-level parking LLD with slot allocation |
-| [HotelReservation](https://github.com/adityapadhmakar99/HotelReservation) | Hotel booking system with availability management |
+## Projects
+
+<!-- PROJECTS:START -->
+<!-- PROJECTS:END -->
 
 ---
 
