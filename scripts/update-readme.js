@@ -116,11 +116,9 @@ function buildProjectsBlock(repos) {
 
   const rows = sorted.map(r => {
     const name  = `[${r.name}](${r.html_url})`;
-    const desc  = (r.description || '—').replace(/\|/g, '\\|');
     const lang  = r.language ? `${langEmoji(r.language)} ${r.language}` : '—';
-    const stars = r.stargazers_count ? `⭐ ${r.stargazers_count}` : '—';
     const date  = formatDate(r.updated_at);
-    return `| ${name} | ${desc} | ${lang} | ${stars} | ${date} |`;
+    return `| ${name} | ${lang} | ${date} |`;
   });
 
   return `<!-- PROJECTS:START -->
@@ -128,8 +126,8 @@ function buildProjectsBlock(repos) {
 > Top languages: ${topLangs}  
 > _Last updated: ${updatedAt}_
 
-| Project | Description | Language | Stars | Updated |
-|---------|-------------|----------|-------|---------|
+| Project | Language | Updated |
+|---------|----------|---------|
 ${rows.join('\n')}
 <!-- PROJECTS:END -->`;
 }
