@@ -48,14 +48,13 @@ Things I've shipped that I'm proud of:
 ## Projects
 
 <!-- PROJECTS:START -->
-> 🔄 Auto-synced from GitHub · **23 repos** · ⭐ 1 stars · 🍴 0 forks  
-> Top languages: `Java` · `JavaScript` · `Python` · `HTML`  
-> _Last updated: Sat, 25 Apr 2026 09:20:10 GMT_
+> 🔄 Auto-synced from GitHub · **22 repos** · ⭐ 1 stars · 🍴 0 forks  
+> Top languages: `Java` · `Python` · `HTML`  
+> _Last updated: Sat, 25 Apr 2026 09:27:37 GMT_
 
 | Project | Description | Language | Stars | Updated |
 |---------|-------------|----------|-------|---------|
 | [AsyncLogger](https://github.com/adityapadhmakar99/AsyncLogger) | Initial Commit | ☕ Java | ⭐ 1 | 25 Apr 2026 |
-| [adityapadhmakar99](https://github.com/adityapadhmakar99/adityapadhmakar99) | — | 🟨 JavaScript | — | 25 Apr 2026 |
 | [FlipMed](https://github.com/adityapadhmakar99/FlipMed) | — | ☕ Java | — | 24 Apr 2026 |
 | [CustomHashMap](https://github.com/adityapadhmakar99/CustomHashMap) | — | ☕ Java | — | 18 Apr 2026 |
 | [DistributedLogs](https://github.com/adityapadhmakar99/DistributedLogs) | — | ☕ Java | — | 22 Jan 2026 |
