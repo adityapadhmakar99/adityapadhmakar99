@@ -48,13 +48,14 @@ Things I've shipped that I'm proud of:
 ## Projects
 
 <!-- PROJECTS:START -->
-> 🔄 Auto-synced from GitHub · **24 repos** · ⭐ 1 stars · 🍴 0 forks  
+> 🔄 Auto-synced from GitHub · **25 repos** · ⭐ 1 stars · 🍴 0 forks  
 > Top languages: `Java` · `Python` · `HTML`  
-> _Last updated: Wed, 15 Jul 2026 02:23:05 GMT_
+> _Last updated: Thu, 16 Jul 2026 02:30:28 GMT_
 
 | Project | Language | Updated |
 |---------|----------|---------|
 | [AsyncLogger](https://github.com/adityapadhmakar99/AsyncLogger) | ☕ Java | 25 Apr 2026 |
+| [ConnetFourGame](https://github.com/adityapadhmakar99/ConnetFourGame) | ☕ Java | 15 Jul 2026 |
 | [IncidentIntakeService](https://github.com/adityapadhmakar99/IncidentIntakeService) | ☕ Java | 28 Jun 2026 |
 | [AmazonLocker](https://github.com/adityapadhmakar99/AmazonLocker) | ☕ Java | 01 May 2026 |
 | [FlipMed](https://github.com/adityapadhmakar99/FlipMed) | ☕ Java | 24 Apr 2026 |
