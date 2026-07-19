@@ -48,13 +48,15 @@ Things I've shipped that I'm proud of:
 ## Projects
 
 <!-- PROJECTS:START -->
-> 🔄 Auto-synced from GitHub · **25 repos** · ⭐ 1 stars · 🍴 0 forks  
+> 🔄 Auto-synced from GitHub · **26 repos** · ⭐ 2 stars · 🍴 0 forks  
 > Top languages: `Java` · `Python` · `HTML`  
-> _Last updated: Sat, 18 Jul 2026 02:23:48 GMT_
+> _Last updated: Sun, 19 Jul 2026 02:36:19 GMT_
 
 | Project | Language | Updated |
 |---------|----------|---------|
+| [RewardService](https://github.com/adityapadhmakar99/RewardService) | ☕ Java | 18 Jul 2026 |
 | [AsyncLogger](https://github.com/adityapadhmakar99/AsyncLogger) | ☕ Java | 25 Apr 2026 |
+| [LibraryManagementSystem](https://github.com/adityapadhmakar99/LibraryManagementSystem) | ☕ Java | 18 Jul 2026 |
 | [ConnetFourGame](https://github.com/adityapadhmakar99/ConnetFourGame) | ☕ Java | 15 Jul 2026 |
 | [IncidentIntakeService](https://github.com/adityapadhmakar99/IncidentIntakeService) | ☕ Java | 28 Jun 2026 |
 | [AmazonLocker](https://github.com/adityapadhmakar99/AmazonLocker) | ☕ Java | 01 May 2026 |
@@ -66,7 +68,6 @@ Things I've shipped that I'm proud of:
 | [SchedulerLeaderElection](https://github.com/adityapadhmakar99/SchedulerLeaderElection) | ☕ Java | 22 Jan 2026 |
 | [InventoryService](https://github.com/adityapadhmakar99/InventoryService) | ☕ Java | 20 Jan 2026 |
 | [RateLimiter](https://github.com/adityapadhmakar99/RateLimiter) | ☕ Java | 20 Jan 2026 |
-| [LMS](https://github.com/adityapadhmakar99/LMS) | ☕ Java | 20 Jan 2026 |
 | [MovieTicketBooking](https://github.com/adityapadhmakar99/MovieTicketBooking) | ☕ Java | 18 Dec 2025 |
 | [HotelReservation](https://github.com/adityapadhmakar99/HotelReservation) | ☕ Java | 17 Dec 2025 |
 | [CircularDependency](https://github.com/adityapadhmakar99/CircularDependency) | ☕ Java | 16 Dec 2025 |
