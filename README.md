@@ -48,14 +48,15 @@ Things I've shipped that I'm proud of:
 ## Projects
 
 <!-- PROJECTS:START -->
-> 🔄 Auto-synced from GitHub · **26 repos** · ⭐ 2 stars · 🍴 0 forks  
+> 🔄 Auto-synced from GitHub · **27 repos** · ⭐ 2 stars · 🍴 0 forks  
 > Top languages: `Java` · `Python` · `HTML`  
-> _Last updated: Sat, 26 Sep 2026 03:40:29 GMT_
+> _Last updated: Sun, 27 Sep 2026 03:49:29 GMT_
 
 | Project | Language | Updated |
 |---------|----------|---------|
 | [RewardService](https://github.com/adityapadhmakar99/RewardService) | ☕ Java | 18 Jul 2026 |
 | [AsyncLogger](https://github.com/adityapadhmakar99/AsyncLogger) | ☕ Java | 25 Apr 2026 |
+| [PaymentReminderEngine](https://github.com/adityapadhmakar99/PaymentReminderEngine) | ☕ Java | 26 Sept 2026 |
 | [LibraryManagementSystem](https://github.com/adityapadhmakar99/LibraryManagementSystem) | ☕ Java | 18 Jul 2026 |
 | [ConnetFourGame](https://github.com/adityapadhmakar99/ConnetFourGame) | ☕ Java | 15 Jul 2026 |
 | [IncidentIntakeService](https://github.com/adityapadhmakar99/IncidentIntakeService) | ☕ Java | 28 Jun 2026 |
